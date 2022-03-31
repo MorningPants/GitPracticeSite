@@ -1,5 +1,8 @@
 # Test repo for people to practice committing PR's to github
 
+This is good resource to learn the basic git commands.
+https://www.w3schools.com/git/git_intro.asp?remote=github
+
 ## Step 1
 
 Clone the repository
